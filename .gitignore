@@ -39,3 +39,12 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# backend related
+backend/app/venv
+backend/app/ffmpeg.exe
+backend/app/ffprobe.exe
+
+# ffmpeg related
+ffmpeg.zip
+ffmpeg-temp/
